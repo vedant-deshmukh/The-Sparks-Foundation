@@ -1,7 +1,6 @@
 # TheSparksFoundation
 <h4>All these tasks are under the internship program of The Sparks Foundation.</h4>
-<br> 
-<br>
+
 <h3><b>Task 1 : Prediction of Score of Student based on Study Hours</b></h3>
 <h4> This project aims at making such a system that is able to predict the Score of Students based on number of hours he puts in daily consistantly. This project is built using Linear Regression model in Supervised Machine Learning.
 <br>
