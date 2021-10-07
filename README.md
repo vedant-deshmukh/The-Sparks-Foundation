@@ -1,4 +1,4 @@
-# TheSparksFoundation
+# The Sparks Foundation
 <h4>All these tasks are under the internship program of The Sparks Foundation.</h4>
 
 <h3><b>Task 1 : Prediction of Score of Student based on Study Hours</b></h3>
